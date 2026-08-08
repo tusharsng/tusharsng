@@ -51,22 +51,9 @@ My experience includes:
 
 ---
 
-## 📚 Currently Learning
-
-I'm currently deepening my backend and cloud engineering skills, with a focus on:
-
-* **NestJS**
-* **Redis**
-* **Docker**
-* **CI/CD**
-* **AWS**
-* Backend architecture and scalable systems
-
----
-
 ## 🎯 What I'm Working Towards
 
-My goal is to become a strong **Full-Stack / Backend Engineer** capable of building production applications, designing reliable backend systems, and deploying them using modern cloud practices.
+With around **3 years of professional experience**, I’m focused on building reliable, production-ready web applications. I’m continuously expanding my backend and cloud expertise, with a focus on writing maintainable systems and taking on increasingly complex engineering challenges.
 
 ---
 
