@@ -1,6 +1,6 @@
 # Hi, I'm Tushar Singh 👋
 
-### Full-Stack Developer | React · Next.js · TypeScript · Node.js · PostgreSQL
+### Full-Stack Developer | React · Next.js · TypeScript · Node.js · PostgreSQL · AWS
 
 I'm a Full-Stack Developer focused on building modern, scalable web applications with JavaScript and TypeScript.
 
@@ -10,8 +10,8 @@ I enjoy working across the stack — from building responsive frontend experienc
 
 ## 🎓 Education
 
-**[B.Tech CSE]**
-[Indraprastha Institute of Information Technology Delhi] · [2023]
+**B.Tech CSE**
+Indraprastha Institute of Information Technology Delhi · 2023
 
 ---
 
@@ -35,29 +35,19 @@ My experience includes:
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)](https://skillicons.dev)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)](https://skillicons.dev)
 
-### Databases
+### Database & Cloud
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,aws)](https://skillicons.dev)
 
-### Cloud & Tools
+### Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode)](https://skillicons.dev)
 
 ---
 
@@ -76,7 +66,7 @@ I'm currently deepening my backend and cloud engineering skills, with a focus on
 
 ## 🎯 What I'm Working Towards
 
-My goal is to become a strong **Full-Stack / Backend Engineer** capable of building production-ready applications, designing reliable backend systems, and deploying them using modern cloud and DevOps practices.
+My goal is to become a strong **Full-Stack / Backend Engineer** capable of building production applications, designing reliable backend systems, and deploying them using modern cloud practices.
 
 ---
 
