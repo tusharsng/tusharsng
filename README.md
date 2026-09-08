@@ -48,8 +48,8 @@ Indraprastha Institute of Information Technology · 2023
 
 ## 🔗 Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/tusharsng/)
-📧 [Email](mailto:tusharsng89@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/tusharsng/)
+* 📧 [Email](mailto:tusharsng89@gmail.com)
 
 ---
 
