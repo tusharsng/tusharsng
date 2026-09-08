@@ -12,19 +12,19 @@ I focus on delivering **clean, maintainable, scalable, and reliable software** w
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)](https://skillicons.dev)
 
-### Database
+### Database & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,aws)](https://skillicons.dev)
 
-### Cloud & Tools
+### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode)](https://skillicons.dev)
 
 ---
 
