@@ -1,33 +1,10 @@
 # Hi, I'm Tushar Singh 👋
 
-### Full-Stack Developer | React · Next.js · TypeScript · Node.js · PostgreSQL · AWS
+### Software Engineer | Full-Stack Developement | Backend & Cloud
 
-I'm a Full-Stack Developer focused on building modern, scalable web applications with JavaScript and TypeScript.
+Software Engineer with **2+ years of professional experience** building production web applications and backend systems. I work primarily with **React, Node.js, TypeScript, PostgreSQL, and AWS**, with hands-on experience in **multi-tenant systems, third-party integrations, caching, cloud deployments, and CI/CD**.
 
-I enjoy working across the stack — from building responsive frontend experiences to designing APIs, working with databases, and deploying applications to the cloud.
-
----
-
-## 🎓 Education
-
-**B.Tech CSE**
-Indraprastha Institute of Information Technology Delhi · 2023
-
----
-
-## 💼 Work Experience
-
-I have professional experience working as a **Full-Stack Developer**, building and maintaining web applications and working with modern JavaScript technologies.
-
-My experience includes:
-
-* Developing frontend applications using **React**
-* Building backend services and APIs with **Node.js & Express**
-* Working with **TypeScript**
-* Working with relational databases such as **PostgreSQL**
-* Working with **AWS** services including S3 and RDS
-* Deploying and maintaining applications in production environments
-* Collaborating with development and DevOps teams
+I focus on delivering **clean, maintainable, scalable, and reliable software** while solving real-world product and engineering problems across the stack.
 
 ---
 
@@ -35,32 +12,44 @@ My experience includes:
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind&theme=light)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=light)](https://skillicons.dev)
 
-### Database & Cloud
+### Database
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,redis,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&theme=light)](https://skillicons.dev)
 
-### Tools
+### Cloud & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,vscode)](https://skillicons.dev)
-
----
-
-## 🎯 What I'm Working Towards
-
-With around **3 years of professional experience**, I’m focused on building reliable, production-ready web applications. I’m continuously expanding my backend and cloud expertise, with a focus on writing maintainable systems and taking on increasingly complex engineering challenges.
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
-## 📫 Connect With Me
+## 💼 Experience
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/tusharsng/)
-* 🐙 [GitHub](https://github.com/tusharsng)
+* Developing responsive, component-driven interfaces with **React, TypeScript, and JavaScript**.
+* Designing **APIs, business logic, and backend services** with Node.js and TypeScript.
+* Working with **PostgreSQL and Redis** for data management, caching, and application performance.
+* Integrating **payment gateways, SMS providers, and third-party APIs** into production systems.
+* Deploying and managing applications using **AWS and Docker** across development and production environments.
+* Building **CI/CD pipelines with GitLab** and troubleshooting application, deployment, and production issues.
+
+---
+
+## 🎓 Education
+
+**B.Tech Computer Science**
+Indraprastha Institute of Information Technology · 2023
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tusharsng/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tusharsng89@gmail.com)
 
 ---
 
